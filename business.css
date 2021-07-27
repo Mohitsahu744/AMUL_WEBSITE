@@ -1,0 +1,50 @@
+.amul{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+nav,a{
+   text-decoration: none;
+   font-size: 30px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 30px;
+   color: rgb(20, 220, 47);
+    
+}
+div{
+   text-align: center;
+
+}
+.icecorn{
+    margin: 25px 90px ;
+    height: 250px;
+    width: 250px;
+    margin-left: 5%;
+    padding: 40px;
+    transition: transform 1s;
+    
+}
+.icecorn:hover{
+    transform: scale(1.2);
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+.centerimg{
+    background-color:antiquewhite;
+    background-position: left;
+}
+.p{
+    background-color:rgb(196, 248, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top:40px;
+
+}
+.bottom{
+    background-color: black;
+}
